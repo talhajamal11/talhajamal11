@@ -34,7 +34,8 @@ You can find me on [![LinkedIn][2.2]][2].
 [2]: https://www.linkedin.com/in/talhajamal11/
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${talhajamal11}.${talhajamal11})
+
+Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=${talhajamal11}.${talhajamal11})
 <!--
 **talhajamal11/talhajamal11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
