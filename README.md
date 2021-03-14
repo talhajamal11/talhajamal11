@@ -24,7 +24,9 @@
 
 <!-- Actual text -->
 
-You can find me on [![LinkedIn][2.2]][2].
+🌱 I’m currently learning JavaScript and other Backend Technologies alongside working on my Data Science skills! 
+
+💬 If you want to have a bit of a chat with me, you can find me on LinkedIn here! [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
@@ -34,8 +36,9 @@ You can find me on [![LinkedIn][2.2]][2].
 [2]: https://www.linkedin.com/in/talhajamal11/
 
 
+Glad to see you here! 
 
-Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=${talhajamal11}.${talhajamal11})
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${talhajamal11}.${talhajamal11})
 <!--
 **talhajamal11/talhajamal11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
