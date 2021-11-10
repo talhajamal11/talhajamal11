@@ -1,6 +1,6 @@
 ### Hi there, I'm Talha Jamal 👋
 
-#### I'm a recent graduate of Electrical and Electronic Engineering and am working towards a career in Data Engineering, Machine Learning or Software Development.
+#### I'm a recent graduate of Electrical and Electronic Engineering and am working as a Quantitative Specialist at S&P. 
 #### Having worked with Python, C, C++, and SQL within my time at University, I have taken my own initative to learn new programming languages like JavaScript and new frameworks like TensorFlow and Keras in Python. 
 
 #### &#x1f6e0; Technologies and Tools
