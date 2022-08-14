@@ -1,7 +1,8 @@
 ### Hi there, I'm Talha Jamal 👋
 
-#### I'm a recent graduate of Electrical and Electronic Engineering and am working as a Quantitative Specialist at S&P. 
-#### Having worked with Python, C, C++, and SQL within my time at University, I have taken my own initative to learn new programming languages like JavaScript and new frameworks like TensorFlow and Keras in Python. 
+#### I am a an Electrical and Electronic Engineering graduate, currently working as a Quant at S&P for a Quantitive Research Product called ClariFI, working with Investment Management clients helping them buile their Quantitative Research workflows. 
+
+#### Having worked with Python, C, C++, and SQL within my time at University, I utilise my skills in coding, machine learning, statistics, and databases to work on quantitative workflows using S&P's Financial Datasets. 
 
 #### &#x1f6e0; Technologies and Tools
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
@@ -9,12 +10,15 @@
 ![](https://img.shields.io/badge/Editor-VScode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Spyder-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Jupyter-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-RStudio-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Languages-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Languages-C-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Languages-C++-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Languages-R-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Languages-Pascal-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-SQLite-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-SQLServer-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 
@@ -24,7 +28,7 @@
 
 <!-- Actual text -->
 
-🌱 I’m currently learning JavaScript and other Backend Technologies alongside working on my Data Science skills! 
+🌱 I'm currently studying towards the CFA charterholder. I have already passed CFA Level 1 in Feb 2022 and am taking the Level 2 in May 2023. I aim to utilize the financial knowledge to help me in my factor backtesting, alpha research, and writing trading scripts. 
 
 💬 If you want to have a bit of a chat with me, you can find me on LinkedIn here! [![LinkedIn][2.2]][2].
 
