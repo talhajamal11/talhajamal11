@@ -1,6 +1,6 @@
 ### Hi there, I'm Talha Jamal 👋
 
-#### I am a an Electrical and Electronic Engineering graduate, currently working as a Quant at S&P for a Quantitive Research Product called ClariFI, working with Investment Management clients helping them buile their Quantitative Research workflows. 
+#### I am an Electrical and Electronic Engineering graduate, currently working as a Quant at S&P for a Quantitive Research Product called ClariFI, working with Investment Management clients helping them buile their Quantitative Research workflows. 
 
 #### Having worked with Python, C, C++, and SQL within my time at University, I utilise my skills in coding, machine learning, statistics, and databases to work on quantitative workflows using S&P's Financial Datasets. 
 
