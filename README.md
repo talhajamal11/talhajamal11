@@ -1,24 +1,15 @@
 ### Hi there, I'm Talha Jamal 👋
 
-#### I am an Electrical and Electronic Engineering graduate, currently working as a Quant at S&P for a Quantitive Research Product called ClariFI, working with Investment Management clients helping them build their Quantitative Research workflows. 
-
-#### Having worked with Python, C, C++, and SQL within my time at University, I utilise my skills in coding, machine learning, statistics, and databases to work on quantitative workflows for clients using S&P's Financial Datasets. 
+#### I am a Quant Specialist at S&P for a Quantitive Research Product called ClariFI
 
 #### &#x1f6e0; Technologies and Tools
-![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VScode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Spyder-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Jupyter-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-RStudio-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Languages-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Languages-C-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Languages-C++-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Languages-R-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Scripting-Batch-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-SQLServer-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-KDB/q+-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 
 ![Talha Jamal's GitHub stats](https://github-readme-stats.vercel.app/api?username=talhajamal11&show_icons=true&theme=radical)
@@ -27,7 +18,7 @@
 
 <!-- Actual text -->
 
-🌱 I'm currently studying towards the CFA charterholder. I have already passed CFA Level 1 in Feb 2022 and am taking the Level 2 in May 2023. I aim to utilize the financial knowledge to help me in my factor backtesting, alpha research, and writing trading scripts. 
+🌱 I'm currently studying towards the CFA charterholder. I am a CFA Level 2 Candidate. I enjoy writing code in Python and C++. During the week I work with Investment Management clients and build quantitative research workflows for them at S&P. On weekends I like to indulge myself in creating quant research projects in different areas of Quantitative Finance. 
 
 💬 If you want to have a bit of a chat with me, you can find me on LinkedIn here! [![LinkedIn][2.2]][2].
 
