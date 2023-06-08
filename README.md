@@ -1,6 +1,6 @@
 ### Hi there, I'm Talha Jamal 👋
 
-#### I am a Quant Specialist at S&P for a Quantitive Research Product called ClariFI
+#### I am a Quant Specialist at S&P working for a Quantitive Research Product called ClariFI
 
 #### &#x1f6e0; Technologies and Tools
 ![](https://img.shields.io/badge/Languages-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
