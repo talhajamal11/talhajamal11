@@ -1,6 +1,6 @@
 ### Hi there, I'm Talha Jamal 👋
 
-#### I am a Quant Specialist at S&P working for a Quantitive Research Product called ClariFI
+#### I am a Financial Engineering Student at Imperial College London with 2 years of work experience as a Quantitative Specialist at S&P.
 
 #### &#x1f6e0; Technologies and Tools
 ![](https://img.shields.io/badge/Languages-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
@@ -11,14 +11,9 @@
 ![](https://img.shields.io/badge/Tools-SQLServer-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-KDB/q+-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-
-![Talha Jamal's GitHub stats](https://github-readme-stats.vercel.app/api?username=talhajamal11&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talhajamal11&theme=radical)
-
 <!-- Actual text -->
 
-🌱 I'm currently studying towards the CFA charterholder. I am a CFA Level 2 Candidate. I enjoy writing code in Python and C++. During the week I work with Investment Management clients and build quantitative research workflows for them at S&P. On weekends I like to indulge myself in creating quant research projects in different areas of Quantitative Finance. 
+🌱 I like the intersection of mathematics, programming, and finance. 
 
 💬 If you want to have a bit of a chat with me, you can find me on LinkedIn here! [![LinkedIn][2.2]][2].
 
@@ -29,11 +24,16 @@
 
 [2]: https://www.linkedin.com/in/talhajamal11/
 
+Glad to see you here!
 
-Glad to see you here! 
+<!--
+
+![Talha Jamal's GitHub stats](https://github-readme-stats.vercel.app/api?username=talhajamal11&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talhajamal11&theme=radical)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${talhajamal11}.${talhajamal11})
-<!--
+
 **talhajamal11/talhajamal11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -46,4 +46,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 
 -->
