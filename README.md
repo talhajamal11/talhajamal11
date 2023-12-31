@@ -15,14 +15,10 @@
 
 Building Projects to combine my programming and mathematical skills and apply them within quantitative finance. 
 
-💬 If you want to have a bit of a chat with me, you can find me on LinkedIn here! [![LinkedIn][2.2]][2].
+💬 If you want to have a bit of a chat with me, you can find me on LinkedIn here: https://www.linkedin.com/in/talhajamal11/
 
 <!-- Icons -->
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[2]: https://www.linkedin.com/in/talhajamal11/
 
 <!--
 
