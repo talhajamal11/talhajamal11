@@ -1,25 +1,6 @@
 ### Hi there, I'm Talha Jamal 👋
 
-#### I am a Financial Engineering Student at Imperial College London with 2 years of work experience as a Quantitative Specialist at S&P.
-
-#### &#x1f6e0; Technologies and Tools
-![](https://img.shields.io/badge/Languages-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Languages-C++-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Languages-R-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Languages-Kdb+/Q-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Scripting-Batch-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Scripting-PowerShell-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-SQLServer-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
-<!-- Actual text -->
-
-Building Projects to combine my programming and mathematical skills and apply them within quantitative finance. 
-
-💬 If you want to have a bit of a chat with me, you can find me on LinkedIn here: https://www.linkedin.com/in/talhajamal11/
-
-<!-- Icons -->
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+#### I am a Quant at B2C2 - the largest Electronic Market Maker within Crypto. I have a Financial Engineering Masters from Imperial College London.
 
 <!--
 
